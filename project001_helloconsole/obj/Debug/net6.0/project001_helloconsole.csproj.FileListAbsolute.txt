@@ -1,0 +1,15 @@
+D:\CS_projects\project001_helloconsole\bin\Debug\net6.0\project001_helloconsole.exe
+D:\CS_projects\project001_helloconsole\bin\Debug\net6.0\project001_helloconsole.deps.json
+D:\CS_projects\project001_helloconsole\bin\Debug\net6.0\project001_helloconsole.runtimeconfig.json
+D:\CS_projects\project001_helloconsole\bin\Debug\net6.0\project001_helloconsole.dll
+D:\CS_projects\project001_helloconsole\bin\Debug\net6.0\project001_helloconsole.pdb
+D:\CS_projects\project001_helloconsole\obj\Debug\net6.0\project001_helloconsole.csproj.AssemblyReference.cache
+D:\CS_projects\project001_helloconsole\obj\Debug\net6.0\project001_helloconsole.GeneratedMSBuildEditorConfig.editorconfig
+D:\CS_projects\project001_helloconsole\obj\Debug\net6.0\project001_helloconsole.AssemblyInfoInputs.cache
+D:\CS_projects\project001_helloconsole\obj\Debug\net6.0\project001_helloconsole.AssemblyInfo.cs
+D:\CS_projects\project001_helloconsole\obj\Debug\net6.0\project001_helloconsole.csproj.CoreCompileInputs.cache
+D:\CS_projects\project001_helloconsole\obj\Debug\net6.0\project001_helloconsole.dll
+D:\CS_projects\project001_helloconsole\obj\Debug\net6.0\refint\project001_helloconsole.dll
+D:\CS_projects\project001_helloconsole\obj\Debug\net6.0\project001_helloconsole.pdb
+D:\CS_projects\project001_helloconsole\obj\Debug\net6.0\project001_helloconsole.genruntimeconfig.cache
+D:\CS_projects\project001_helloconsole\obj\Debug\net6.0\ref\project001_helloconsole.dll
